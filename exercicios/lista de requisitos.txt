@@ -1,0 +1,25 @@
+Lista de Requisitos:
+
+1. O carro XPTO deve ser considerar elementos de carga, desempenho, conforto, confiabilidade, custo de produção, segurança, emissões, e economia de combustível.
+
+2. O veículo deve estar de acordo com o acordo de Kyoto 2010 sobre emissões de combustíveis.
+
+3. A massa total atual do carro deve ser menor que o limite suportado.
+
+4. O veículo deve gerar um ruído de no máximo 50 dB. 
+
+5. A confiabilidade atual deve ser maior que a confiabilidade requerida.
+
+6. O veículo deve obter uma economia de combustível melhor do que 95% dos carros construídos em 2018.
+
+7. O motor deve fornecer um ponto de conexão para transferir torque para a transmissão.
+
+8. O veículo deve manter uma média de economia de combustível de X km por litro para o cenário nominal de uso. 
+
+9. A massa total do carro corresponde a soma dos seguintes elementos: massa do veículo, massa dos passageiros, massa de carga
+
+10. O veículo deve acelerar de 0 a 100 km/h em menos de 8 segundos de acordo com as condições especificadas no estudo T. 
+
+11. A vibração do veículo deve ser de no máximo V. 
+
+12. O motor deve gerar torque como uma função de RPM como descrito no documento K.
